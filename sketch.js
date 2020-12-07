@@ -82,5 +82,5 @@ function mouseDragged(){
 }
 
 function mouseReleased(){
-    slingshot1.fly();
+   
 }
